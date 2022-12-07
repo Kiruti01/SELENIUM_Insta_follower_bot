@@ -10,8 +10,8 @@ from selenium.common.exceptions import StaleElementReferenceException
 
 CHROME_DRIVER_PATH = "C:\Development\chromedriver.exe"
 SIMILAR_ACCOUNT = "samdoesarts"
-USERNAME = "lordmikeyofficial"
-PASSWORD = "kiruti789MM"
+USERNAME = "USERNAME"
+PASSWORD = "*****"
 INSTA_URL = "https://www.instagram.com/accounts/login/"
 
 s = Service(CHROME_DRIVER_PATH)
